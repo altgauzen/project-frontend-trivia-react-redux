@@ -1,7 +1,20 @@
-### Termos de acordo
+# project-frontend-trivia-react-redux
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
 
+Este foi um projeto em grupo feito na Trybe no Módulo de Front-end onde praticamos a organização de um projeto em time com a metodologia agile Kanban, sedimentando tudo que ja aprendemos sobre React e Redux.
+
+Aprendemos neste Projeto a: 
+ - Criar um store Redux em aplicações React;
+ - Criar reducers no Redux em aplicações React;
+ - Criar actions no Redux em aplicações React;
+ - Criar dispatchers no Redux em aplicações React;
+ - Conectar Redux aos componentes React;
+ - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
+
+Aproveitamento: 94.44% de aprovação pelos avaliadores da Trybe.
+
+---
 # Boas vindas ao repositório do projeto de Trivia!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
